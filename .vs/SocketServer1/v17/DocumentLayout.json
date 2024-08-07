@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\xchen\\source\\repos\\SocketServer1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8AF23ABB-6EC8-4E49-882D-5896D3A233FC}|..\\SocketServer2\\SocketServer2.csproj|c:\\users\\xchen\\source\\repos\\socketserver2\\tcp_server2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{447BA4C2-F482-4528-83FE-6C96C3627CB5}|SocketServer1.csproj|c:\\users\\xchen\\source\\repos\\socketserver1\\tcp_server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{447BA4C2-F482-4528-83FE-6C96C3627CB5}|SocketServer1.csproj|solutionrelative:tcp_server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{447BA4C2-F482-4528-83FE-6C96C3627CB5}|SocketServer1.csproj|c:\\users\\xchen\\source\\repos\\socketserver1\\services\\greeterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{447BA4C2-F482-4528-83FE-6C96C3627CB5}|SocketServer1.csproj|solutionrelative:services\\greeterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E062EA8-B40D-4F5C-BA73-4CF8144A8DDF}|..\\SocketClient1\\SocketClient1.csproj|c:\\users\\xchen\\source\\repos\\socketclient1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E57026B-495A-4BC9-B958-DBE4E80A0DCF}|..\\SocketClient2\\SocketClient2.csproj|c:\\users\\xchen\\source\\repos\\socketclient2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GreeterService.cs",
+              "DocumentMoniker": "C:\\Users\\xchen\\source\\repos\\SocketServer1\\Services\\GreeterService.cs",
+              "RelativeDocumentMoniker": "Services\\GreeterService.cs",
+              "ToolTip": "C:\\Users\\xchen\\source\\repos\\SocketServer1\\Services\\GreeterService.cs",
+              "RelativeToolTip": "Services\\GreeterService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T20:59:39.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\xchen\\source\\repos\\SocketClient2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\SocketClient2\\Program.cs",
+              "ToolTip": "C:\\Users\\xchen\\source\\repos\\SocketClient2\\Program.cs",
+              "RelativeToolTip": "..\\SocketClient2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T20:51:33.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "tcp_Server.cs",
+              "DocumentMoniker": "C:\\Users\\xchen\\source\\repos\\SocketServer1\\tcp_Server.cs",
+              "RelativeDocumentMoniker": "tcp_Server.cs",
+              "ToolTip": "C:\\Users\\xchen\\source\\repos\\SocketServer1\\tcp_Server.cs",
+              "RelativeToolTip": "tcp_Server.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T20:51:22.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "tcp_Server2.cs",
+              "DocumentMoniker": "C:\\Users\\xchen\\source\\repos\\SocketServer2\\tcp_Server2.cs",
+              "RelativeDocumentMoniker": "..\\SocketServer2\\tcp_Server2.cs",
+              "ToolTip": "C:\\Users\\xchen\\source\\repos\\SocketServer2\\tcp_Server2.cs",
+              "RelativeToolTip": "..\\SocketServer2\\tcp_Server2.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T20:51:14.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\xchen\\source\\repos\\SocketClient1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\SocketClient1\\Program.cs",
+              "ToolTip": "C:\\Users\\xchen\\source\\repos\\SocketClient1\\Program.cs",
+              "RelativeToolTip": "..\\SocketClient1\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T20:44:25.141Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

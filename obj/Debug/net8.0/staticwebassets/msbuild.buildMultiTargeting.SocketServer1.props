@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SocketServer1.props" />
+</Project>

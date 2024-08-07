@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option csharp_namespace = "SocketServerProto";
+
+package greet;
+
+service testService {
+	rpc Talk (request_msg) returns (respond_msg); 
+}
+
+message request_msg {
+	string msg_req = 1; 
+}
+
+message respond_msg {
+	string msg_resp = 1; 
+}
